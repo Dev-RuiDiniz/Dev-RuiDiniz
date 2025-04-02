@@ -1,21 +1,88 @@
-<!--
-**Dev-RuiDiniz/Dev-RuiDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou Rui Diniz!
 
-# Olá, eu sou Rui Francisco de Paula!  
+### **Analista de Dados | Desenvolvedor Fullstack Python**  
+*Transformando dados em insights e código em soluções escaláveis*
 
-## Analista de Dados e Desenvolvedor Python  
+---
 
-💻 **Tecnologias:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 👨‍💻 **Sobre Mim**
+<div align="justify">
+Sou um profissional apaixonado por dados e desenvolvimento, com experiência em criar soluções completas que vão desde a análise exploratória até a implementação de sistemas em produção. Minha abordagem combina rigor analítico com habilidades técnicas sólidas, permitindo-me transformar problemas complexos em soluções eficientes.
 
-🔧 **Projetos Destacados:**  
-- [Análise de Dados com Pandas](link) - Uma análise detalhada de dados usando a biblioteca Pandas.
+Com background em [adicione sua formação ou experiência relevante], me especializo em:
+- Análise preditiva e visualização de dados
+- Desenvolvimento de APIs robustas
+- Automação de processos
+- Modelagem de bancos de dados
 
-📊 **Estatísticas do GitHub:**  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=dracula)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&theme=dracula)
+Atualmente estou focado em [mencione seus interesses atuais, ex: "otimizar pipelines de dados usando técnicas de machine learning"].
+</div>
 
-📫 **Contato:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-francisco-de-paula-inácio-diniz-868195301/)
+---
+
+## 🛠️ **Tecnologias & Habilidades**
+
+### 📊 **Análise de Dados & BI**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+</div>
+
+### 💻 **Desenvolvimento FullStack**
+<div>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
+
+### ⚙️ **DevOps & Cloud**
+<div>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</div>
+
+---
+
+## 🚀 **Projetos em Destaque**
+
+### 🔍 [Análise de Dados Avançada](https://github.com/Dev-RuiDiniz/seu-projeto)
+*Análise preditiva de dados de mercado com visualizações interativas*
+- Python | Pandas | Matplotlib | Tableau
+- Processamento de grandes volumes de dados
+- Geração de relatórios automatizados
+
+### ⚡ [Sistema de Automação](https://github.com/Dev-RuiDiniz/seu-projeto)
+*Automação de processos empresariais com inteligência artificial*
+- Python | Selenium | PostgreSQL
+- Redução de 80% no tempo de processamento
+- Integração com sistemas legados
+
+---
+
+## 📈 **GitHub Analytics**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</div>
+
+---
+
+## 📫 **Vamos Conversar!**
+<div align="center">
+  <a href="https://www.linkedin.com/in/rui-francisco-de-paula-inácio-diniz-868195301/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rui.pdiniz@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://dev-ruidiniz.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</div>
