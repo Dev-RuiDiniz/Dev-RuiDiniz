@@ -13,7 +13,7 @@ Com background em [adicione sua formação ou experiência relevante], me especi
 - Automação de processos
 - Modelagem de bancos de dados
 
-Atualmente estou focado em [mencione seus interesses atuais, ex: "otimizar pipelines de dados usando técnicas de machine learning"].
+Atualmente estou focado em otimizar pipelines de dados e automatizar processos utilizando Python, com integração via APIs REST e desenvolvimento de dashboards interativos.
 </div>
 
 ---
