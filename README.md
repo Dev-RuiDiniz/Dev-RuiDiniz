@@ -35,7 +35,7 @@ Atualmente estou focado em otimizar pipelines de dados e automatizar processos u
 ### 🔍  [Gestor de Tarefas WMG](https://github.com/Dev-RuiDiniz/GERENCIADOR_DE_TAREFAS_WMG)
 Sistema web simples para gerenciamento de tarefas, focado em serviços, garantia e controle de entregas. Desenvolvido com Flask e SQLite, permite a criação, edição, conclusão e exclusão de tarefas com acompanhamento de prazos, além de marcar tarefas como "Garantia" e separar tarefas por status. O sistema inclui alertas para tarefas atrasadas ou com prazo próximo e um histórico de tarefas entregues. A interface é simples e intuitiva, utilizando Bootstrap 5.
 
-Tecnologias: Python | Flask | SQLite | Bootstrap
+Tecnologias: Python | HTML | CSS | Flask | SQLite | Bootstrap
 
 ---
 
