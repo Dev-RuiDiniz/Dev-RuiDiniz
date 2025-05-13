@@ -32,11 +32,10 @@ Atualmente estou focado em otimizar pipelines de dados e automatizar processos u
 - Processamento de grandes volumes de dados
 - Geração de relatórios automatizados
 
-### ⚡ [Sistema de Automação](https://github.com/Dev-RuiDiniz/seu-projeto)
-*Automação de processos empresariais com inteligência artificial*
-- Python | Selenium | PostgreSQL
-- Redução de 80% no tempo de processamento
-- Integração com sistemas legados
+### 🔍  [Gestor de Tarefas WMG](https://github.com/Dev-RuiDiniz/GERENCIADOR_DE_TAREFAS_WMG)
+Sistema web simples para gerenciamento de tarefas, focado em serviços, garantia e controle de entregas. Desenvolvido com Flask e SQLite, permite a criação, edição, conclusão e exclusão de tarefas com acompanhamento de prazos, além de marcar tarefas como "Garantia" e separar tarefas por status. O sistema inclui alertas para tarefas atrasadas ou com prazo próximo e um histórico de tarefas entregues. A interface é simples e intuitiva, utilizando Bootstrap 5.
+
+Tecnologias: Python | Flask | SQLite | Bootstrap
 
 ---
 
