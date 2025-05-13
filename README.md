@@ -8,7 +8,7 @@ Com formação em Engenharia de Software (cursando) e Comércio Exterior, me esp
 - Automação de processos
 - Modelagem de bancos de dados
 
-Atualmente estou focado em otimizar pipelines de dados e automatizar processos utilizando Python, com integração via APIs REST e desenvolvimento de dashboards interativos.
+Atualmente, estou aplicando os conceitos de Engenharia de Software para otimizar pipelines de dados e automatizar processos com Python. Minha experiência abrange a integração de APIs REST e o desenvolvimento de dashboards interativos para facilitar a visualização e análise de dados em tempo real. Esses projetos me permitem não apenas aprimorar minhas habilidades em programação, mas também aplicar boas práticas de desenvolvimento de software, como a criação de sistemas escaláveis e eficientes. Estou constantemente buscando melhorar o fluxo de trabalho e a experiência do usuário, utilizando tecnologias modernas e abordagens de desenvolvimento ágil.
 </div>
 
 ---
