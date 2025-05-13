@@ -2,7 +2,7 @@
 <p align="center"><strong>Analista de Dados | Desenvolvedor Fullstack Python</strong></p>
 <p align="center"><em>Transformando dados em insights e código em soluções escaláveis</em></p>
 
-Com background em [adicione sua formação ou experiência relevante], me especializo em:
+Com formação em Engenharia de Software (cursando) e Comércio Exterior, me especializo em:
 - Análise preditiva e visualização de dados
 - Desenvolvimento de APIs robustas
 - Automação de processos
