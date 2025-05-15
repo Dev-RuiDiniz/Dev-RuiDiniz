@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Rui Diniz 👋</h1>
+<h1 align="center">Olá, eu sou o Rui Diniz </h1>
 <p align="center"><strong>Analista de Dados | Desenvolvedor Fullstack Python</strong></p>
 <p align="center"><em>Transformando dados em insights e código em soluções escaláveis</em></p>
 
