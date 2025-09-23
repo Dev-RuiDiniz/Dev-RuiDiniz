@@ -1,5 +1,5 @@
-<h1 align="center">Rui Francisco de Paula inácio Diniz</h1>
-<p align="center"><strong>Engenheiro de Software | Desenvolvedor Fullstack Python | Analista de Dados</strong></p>
+<h1 align="center">Rui Francisco de Paula Inácio Diniz</h1>
+<p align="center"><strong>Engenheiro de Software | Desenvolvedor Fullstack | Analista de Dados</strong></p>
 
 <p align="center">
   <em>"Transformando dados e código em soluções de verdade."</em>
@@ -23,57 +23,62 @@
 ---
 
 Sou apaixonado por resolver problemas com código e transformar dados em decisões.  
-Tenho experiência com desenvolvimento fullstack em Python, análise de dados e automações empresariais.  
-Atualmente, foco em criar soluções escaláveis e eficientes para ambientes industriais e corporativos.
+Tenho experiência com desenvolvimento fullstack em Python, integração de sistemas via APIs REST, análise de dados e automações empresariais.  
+Atualmente, foco em criar soluções **escaláveis e eficientes** para ambientes industriais e corporativos, além de atuar como Analista de Dados.  
 
 ---
 
-###  Habilidades Técnicas
+### 🛠 Habilidades Técnicas
 
-- **Linguagens:** Python, JavaScript, TypeScript, HTML, CSS  
-- **Frameworks:** Flask, Django, FastAPI  
-- **Banco de Dados:** SQLite, PostgreSQL  
-- **Ferramentas:** Git, GitHub Actions, Power BI, Tableau  
-- **Análise de Dados:** Pandas, NumPy, Jupyter  
+- **Linguagens:** Python, Java, JavaScript, SQL, C# (básico)  
+- **Frameworks & APIs:** FastAPI, Flask, Spring Boot, Spring Security, Swagger  
+- **Banco de Dados:** MySQL, PostgreSQL, SQL Server, MongoDB, SQLite  
+- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, Kubernetes (conceitos)  
+- **Ferramentas:** Git, GitHub, Power BI, Excel Avançado, Maven, Gradle  
+- **Metodologias:** Scrum, Kanban, TDD  
+- **Outros:** POO, Lógica de Programação, Análise de Dados, Machine Learning  
 
 <div> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> 
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> 
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> 
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> 
 </div>
 
 ---
 
-## **Projetos**
+### 🎓 Cursos e Certificações
 
-###  [Gestor de Tarefas WMG](https://github.com/Dev-RuiDiniz/GERENCIADOR_DE_TAREFAS_WMG)
-Sistema web simples para gerenciamento de tarefas, focado em serviços, garantia e controle de entregas. Desenvolvido com Flask e SQLite, permite a criação, edição, conclusão e exclusão de tarefas com acompanhamento de prazos, além de marcar tarefas como "Garantia" e separar tarefas por status. O sistema inclui alertas para tarefas atrasadas ou com prazo próximo e um histórico de tarefas entregues. A interface é simples e intuitiva, utilizando Bootstrap 5.
-
-**Tecnologias:** Python | HTML | CSS | Flask | SQLite | Bootstrap
+- Santander 2025 – Back-End com Python (DIO)  
+- Bootcamp GFT Start #7 – Java (DIO)  
+- Bootcamp Machine Learning – BairesDev  
+- Bootcamp Fullstack Developer – Akad (.NET, C# e React)  
+- Google Data Analytics – Coursera  
 
 ---
 
-##  **GitHub Analytics**
+## 🚀 Projetos Relevantes
+
+- **[Gêmeo Digital Industrial em Python](#)** – Simulação de linhas de produção com **SimPy**, otimização com **SciPy** e previsão de ciclos com **scikit-learn**.  
+- **[Sistema Bancário em Python](#)** – Evolução de um sistema monolítico para arquitetura **POO**, aplicando Encapsulamento, Herança, Polimorfismo e Abstração.  
+- **[Dashboard de Faturamento](#)** – Análise financeira com **Streamlit, Pandas e Plotly**.  
+- **[API REST com FastAPI e Docker](#)** – API RESTful containerizada com boas práticas de microsserviços.  
+- **Projetos em Java (GFT Start #7):** API REST com Spring Boot, Board de Tarefas, Abstração de Bootcamp.  
+- **Projetos em C# (Akad Fullstack):** Sistema de Estacionamento, Sistema de Hospedagem de Hotel, Celular com POO e API com ASP.NET.  
+
+---
+
+## 📊 GitHub Analytics
 <div align="center">
 
-  <!-- Linguagens mais utilizadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 
-  <!-- Estatísticas gerais -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <!-- Contribuições contínuas (streak) -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-RuiDiniz&theme=algolia&hide_border=true"/>
-
 </div>
