@@ -28,7 +28,28 @@ Atualmente, foco em criar soluções **escaláveis e eficientes** para ambientes
 
 ---
 
-### 🛠 Habilidades Técnicas
+## 💼 Experiência Profissional
+
+- **Desenvolvedor Freelance (Atual)**  
+  - Gêmeo Digital Industrial em Python (Jul/2025 – Ago/2025): simulação de linhas de produção com **SimPy**, otimização com **SciPy** e previsão de ciclos com **scikit-learn**.  
+  - Dashboard de Faturamento (Mar/2025 – Abr/2025): análise financeira com **Streamlit, Pandas e Plotly**.  
+
+- **Analista de Dados – WMG Assistência Técnica (Set/2024 – Atual)**  
+  - Desenvolvimento de scripts em Python para automação e integração de sistemas.  
+  - Consumo de APIs REST para extração e envio de dados.  
+  - Criação de dashboards interativos (**Power BI, Plotly, HTML/CSS/JS**).  
+  - Consultas SQL otimizadas em **MySQL e PostgreSQL**.  
+  - Comunicação com stakeholders traduzindo requisitos em soluções técnicas.  
+  - Git para versionamento e colaboração.  
+
+- **Professor de Informática – Escola Pró Ativa (2018 – 2024)**  
+  - Aulas de lógica de programação, hardware e pacote Office.  
+  - Desenvolvimento de materiais didáticos e projetos práticos.  
+  - Suporte técnico e atendimento ao usuário.  
+
+---
+
+## 🛠 Habilidades Técnicas
 
 - **Linguagens:** Python, Java, JavaScript, SQL, C# (básico)  
 - **Frameworks & APIs:** FastAPI, Flask, Spring Boot, Spring Security, Swagger  
@@ -52,20 +73,21 @@ Atualmente, foco em criar soluções **escaláveis e eficientes** para ambientes
 
 ---
 
-### 🎓 Cursos e Certificações
+## 🎓 Cursos e Certificações
 
 - Santander 2025 – Back-End com Python (DIO)  
-- Bootcamp GFT Start #7 – Java (DIO)  
 - Bootcamp Machine Learning – BairesDev  
-- Bootcamp Fullstack Developer – Akad (.NET, C# e React)  
+- Bootcamp GFT Start #7 – Java (DIO)  
+- Akad – Fullstack Developer (.NET, C# e React)  
+- Universia – Fundamentos de IA Generativa  
 - Google Data Analytics – Coursera  
 
 ---
 
 ## 🚀 Projetos Relevantes
 
-- **[Gêmeo Digital Industrial em Python](#)** – Simulação de linhas de produção com **SimPy**, otimização com **SciPy** e previsão de ciclos com **scikit-learn**.  
-- **[Sistema Bancário em Python](#)** – Evolução de um sistema monolítico para arquitetura **POO**, aplicando Encapsulamento, Herança, Polimorfismo e Abstração.  
+- **[Gêmeo Digital Industrial em Python](#)** – Simulação de linhas de produção com **SimPy**, otimização com **SciPy** e previsão com **scikit-learn**.  
+- **[Sistema Bancário em Python](#)** – Evolução de um sistema monolítico para **POO**, aplicando Encapsulamento, Herança, Polimorfismo e Abstração.  
 - **[Dashboard de Faturamento](#)** – Análise financeira com **Streamlit, Pandas e Plotly**.  
 - **[API REST com FastAPI e Docker](#)** – API RESTful containerizada com boas práticas de microsserviços.  
 - **Projetos em Java (GFT Start #7):** API REST com Spring Boot, Board de Tarefas, Abstração de Bootcamp.  
