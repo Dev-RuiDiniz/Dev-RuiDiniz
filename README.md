@@ -22,9 +22,15 @@
 
 ---
 
-Sou apaixonado por resolver problemas com código e transformar dados em decisões.  
-Tenho experiência com desenvolvimento fullstack em Python, integração de sistemas via APIs REST, análise de dados e automações empresariais.  
-Atualmente, foco em criar soluções **escaláveis e eficientes** para ambientes industriais e corporativos, além de atuar como Analista de Dados.  
+Estudante de Engenharia de Software em busca da primeira oportunidade profissional como Desenvolvedor Back-end, com foco em Python, APIs REST e Análise de Dados.
+
+Atualmente atuo como Analista de Dados, com experiência prática em integração de sistemas, automação de processos e desenvolvimento de dashboards interativos. Tenho sólida base em Python, SQL e Power BI, além de conhecimento em Django, FastAPI, Docker e versionamento com Git.
+
+Busco uma empresa que valorize o aprendizado contínuo e permita o crescimento profissional, onde eu possa aplicar meus conhecimentos, aprender com os desafios e contribuir ativamente para soluções tecnológicas que gerem impacto real.
+
+Sou proativo, dedicado e resiliente, com facilidade de comunicação, trabalho em equipe e aprendizado rápido. Estou pronto para contribuir com a equipe de desenvolvimento e crescer junto com ela.
+
+Tecnologias: Python | SQL | Django | FastAPI | Pandas | Power BI | Docker | Git | Java | REST APIs
 
 ---
 
