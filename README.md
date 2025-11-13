@@ -22,82 +22,88 @@
 
 ---
 
-Estudante de Engenharia de Software em busca da primeira oportunidade profissional como Desenvolvedor Back-end, com foco em Python, APIs REST e Análise de Dados.
+Estudante de Engenharia de Software e Analista de Dados com foco em **Python, APIs REST, SQL e Business Intelligence**.  
+Atualmente desenvolvo projetos que unem **automação, análise de dados e integração de sistemas**, com aplicação prática em ambientes **locais e em nuvem (AWS e GCP)**.
 
-Atualmente atuo como Analista de Dados, com experiência prática em integração de sistemas, automação de processos e desenvolvimento de dashboards interativos. Tenho sólida base em Python, SQL e Power BI, além de conhecimento em Django, FastAPI, Docker e versionamento com Git.
+Busco oportunidades como **Desenvolvedor Back-end ou Analista de Dados**, onde eu possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções escaláveis e inteligentes.
 
-Busco uma empresa que valorize o aprendizado contínuo e permita o crescimento profissional, onde eu possa aplicar meus conhecimentos, aprender com os desafios e contribuir ativamente para soluções tecnológicas que gerem impacto real.
+Sou proativo, resiliente e apaixonado por aprendizado contínuo — especialmente na interseção entre **engenharia de software e dados**.
 
-Sou proativo, dedicado e resiliente, com facilidade de comunicação, trabalho em equipe e aprendizado rápido. Estou pronto para contribuir com a equipe de desenvolvimento e crescer junto com ela.
-
-Tecnologias: Python | SQL | Django | FastAPI | Pandas | Power BI | Docker | Git | Java | REST APIs
+**Tecnologias:** Python | SQL | FastAPI | Django | Pandas | Power BI | Docker | Git | AWS | PostgreSQL | MySQL
 
 ---
 
 ## 💼 Experiência Profissional
 
-- **Desenvolvedor Freelance (Atual)**  
-  - Gêmeo Digital Industrial em Python (Jul/2025 – Ago/2025): simulação de linhas de produção com **SimPy**, otimização com **SciPy** e previsão de ciclos com **scikit-learn**.  
-  - Dashboard de Faturamento (Mar/2025 – Abr/2025): análise financeira com **Streamlit, Pandas e Plotly**.  
-
 - **Analista de Dados – WMG Assistência Técnica (Set/2024 – Atual)**  
-  - Desenvolvimento de scripts em Python para automação e integração de sistemas.  
-  - Consumo de APIs REST para extração e envio de dados.  
-  - Criação de dashboards interativos (**Power BI, Plotly, HTML/CSS/JS**).  
+  - Desenvolvimento de scripts Python para automação e integração de sistemas.  
+  - Consumo de APIs REST e criação de dashboards interativos com **Power BI, Plotly e HTML/CSS/JS**.  
   - Consultas SQL otimizadas em **MySQL e PostgreSQL**.  
-  - Comunicação com stakeholders traduzindo requisitos em soluções técnicas.  
-  - Git para versionamento e colaboração.  
+  - Comunicação com stakeholders e tradução de requisitos de negócio em soluções técnicas.  
+  - Versionamento e colaboração em equipe com **Git e GitHub**.
+
+- **Desenvolvedor Freelance (2025)**  
+  - **Gêmeo Digital Industrial (Python):** simulação de linhas de produção com **SimPy, SciPy e scikit-learn**.  
+  - **Dashboard Financeiro:** análise e visualização de dados com **Streamlit, Pandas e Plotly**.  
+  - **Sistema de Conexão Python + Bancos SQL:** integração local e cloud com **SQLAlchemy, Docker, AWS RDS e GCP Cloud SQL**.
 
 - **Professor de Informática – Escola Pró Ativa (2018 – 2024)**  
-  - Aulas de lógica de programação, hardware e pacote Office.  
-  - Desenvolvimento de materiais didáticos e projetos práticos.  
-  - Suporte técnico e atendimento ao usuário.  
+  - Ensino de lógica de programação, hardware e pacote Office.  
+  - Criação de materiais didáticos e projetos práticos.  
 
 ---
 
 ## 🛠 Habilidades Técnicas
 
 - **Linguagens:** Python, Java, JavaScript, SQL, C# (básico)  
-- **Frameworks & APIs:** FastAPI, Flask, Spring Boot, Spring Security, Swagger  
-- **Banco de Dados:** MySQL, PostgreSQL, SQL Server, MongoDB, SQLite  
-- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, Kubernetes (conceitos)  
-- **Ferramentas:** Git, GitHub, Power BI, Excel Avançado, Maven, Gradle  
+- **Frameworks & APIs:** FastAPI, Flask, Spring Boot, Spring Security  
+- **Banco de Dados:** MySQL, PostgreSQL, SQL Server, MongoDB  
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, IAM), Docker, GCP Cloud SQL  
+- **Ferramentas:** Power BI, Git, GitHub, Excel Avançado, Streamlit  
 - **Metodologias:** Scrum, Kanban, TDD  
-- **Outros:** POO, Lógica de Programação, Análise de Dados, Machine Learning  
+- **Conceitos:** POO, ORM, Data Pipelines, ETL, APIs REST
 
 <div> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> 
+  <img src="https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> 
 </div>
 
 ---
 
 ## 🎓 Cursos e Certificações
 
-- Santander 2025 – Back-End com Python (DIO)  
-- Bootcamp Machine Learning – BairesDev  
-- Bootcamp GFT Start #7 – Java (DIO)  
-- Akad – Fullstack Developer (.NET, C# e React)  
-- Universia – Fundamentos de IA Generativa  
-- Google Data Analytics – Coursera  
+- **Power BI – Santander OpenAcademy (Nov/2025)**
+- **Santander 2025 – Back-End com Python (DIO)**  
+- **Bootcamp Machine Learning – BairesDev**  
+- **Bootcamp GFT Start #7 – Java (DIO)**  
+- **Akad – Fullstack Developer (.NET, C# e React)**  
+- **Google Data Analytics – Coursera**  
+- **Universia – Fundamentos de IA Generativa**
 
 ---
 
 ## 🚀 Projetos Relevantes
 
-- **[Gêmeo Digital Industrial em Python](#)** – Simulação de linhas de produção com **SimPy**, otimização com **SciPy** e previsão com **scikit-learn**.  
-- **[Sistema Bancário em Python](#)** – Evolução de um sistema monolítico para **POO**, aplicando Encapsulamento, Herança, Polimorfismo e Abstração.  
-- **[Dashboard de Faturamento](#)** – Análise financeira com **Streamlit, Pandas e Plotly**.  
-- **[API REST com FastAPI e Docker](#)** – API RESTful containerizada com boas práticas de microsserviços.  
-- **Projetos em Java (GFT Start #7):** API REST com Spring Boot, Board de Tarefas, Abstração de Bootcamp.  
-- **Projetos em C# (Akad Fullstack):** Sistema de Estacionamento, Sistema de Hospedagem de Hotel, Celular com POO e API com ASP.NET.  
+- **[Conexão Python com MySQL e PostgreSQL (Local e Nuvem)](https://github.com/Dev-RuiDiniz/db-connection-project)**  
+  Integração Python ↔ SQL com **SQLAlchemy**, **Docker** e instâncias cloud (**AWS RDS / GCP Cloud SQL**).  
+  Uso de ORM, variáveis de ambiente e boas práticas de segurança.
+
+- **[Gêmeo Digital Industrial em Python](#)**  
+  Simulação de processos industriais com **SimPy, SciPy e scikit-learn**.  
+
+- **[Dashboard Financeiro em Python](#)**  
+  Visualização de dados empresariais com **Streamlit, Pandas e Plotly**.  
+
+- **[API REST com FastAPI e Docker](#)**  
+  API RESTful containerizada com documentação Swagger e boas práticas de microsserviços.  
+
+- **Projetos Java e C#:** API REST (Spring Boot), Board de Tarefas e Sistemas CRUD (ASP.NET).  
 
 ---
 
