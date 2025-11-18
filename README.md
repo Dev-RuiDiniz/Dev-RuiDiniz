@@ -55,13 +55,13 @@ Sou proativo, resiliente e apaixonado por aprendizado contínuo — especialment
 
 ## 🛠 Habilidades Técnicas
 
-- **Linguagens:** Python, Java, JavaScript, SQL, C# (básico)
-- **Frameworks & APIs:** FastAPI, Flask, Spring Boot, Spring Security
-- **Banco de Dados:** MySQL, PostgreSQL, SQL Server, MongoDB
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, IAM), Docker, GCP Cloud SQL
-- **Ferramentas:** Power BI, Git, GitHub, Excel Avançado, Streamlit
-- **Metodologias:** Scrum, Kanban, TDD
-- **Conceitos:** POO, ORM, Data Pipelines, ETL, APIs REST
+- **Linguagens:** Python, Java, JavaScript, SQL, C# (básico)  
+- **Frameworks & APIs:** FastAPI, Flask, Spring Boot, Spring Security  
+- **Banco de Dados:** MySQL, PostgreSQL, SQL Server, MongoDB  
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, IAM), Docker, GCP Cloud SQL  
+- **Ferramentas:** Power BI, Git, GitHub, Excel Avançado, Streamlit  
+- **Metodologias:** Scrum, Kanban, TDD  
+- **Conceitos:** POO, ORM, Data Pipelines, ETL, APIs REST  
 
 <div> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
@@ -78,45 +78,45 @@ Sou proativo, resiliente e apaixonado por aprendizado contínuo — especialment
 
 ## 🎓 Cursos e Certificações
 
-
-- **Power BI – Santander OpenAcademy (Nov/2025)**
-
+- **Power BI – Santander OpenAcademy (Nov/2025)**  
 - **Santander 2025 – Back-End com Python (DIO)**  
-
 - **Bootcamp Machine Learning – BairesDev**  
-
 - **Bootcamp GFT Start #7 – Java (DIO)**  
-
 - **Akad – Fullstack Developer (.NET, C# e React)**  
-
 - **Google Data Analytics – Coursera**  
-
 - **Universia – Fundamentos de IA Generativa**
 
 ---
 
 ## 🚀 Projetos Relevantes
 
-- **[Pipeline de Backup em Nuvem (AWS S3 + Google Cloud Storage)](https://github.com/Dev-RuiDiniz/cloud-backup-pipeline)**
-  Sistema completo de automação que:
-  * Gera relatórios automaticamente (CSV e Parquet)
-  * Versiona arquivos por timestamp
-  * Realiza upload simultâneo para AWS S3 e Google Cloud Storage
-  * Mantém logs rotativos e estruturados
-  * Permite execução manual ou automática via GitHub Actions
-  * Inclui testes automatizados com pytest
-  Ideal para pipelines profissionais de dados, backup distribuído e portfólio técnico.
+- **[Pipeline ETL Automatizado — AWS + Python](https://github.com/Dev-RuiDiniz/etl-pipeline-aws)**  
+  Pipeline ETL serverless desenvolvido para extrair dados de uma **API pública**, transformá-los com **Pandas** e carregá-los em um banco **PostgreSQL (AWS RDS)**.  
+  Logs e arquivos de auditoria são armazenados no **Amazon S3**. Inclui **tratamento de exceções**, **estrutura modular**, **Pydantic Settings**, **Dockerfile**, **SAM/CDK template** e **testes com pytest**.
 
-- **[Conexão Python com MySQL e PostgreSQL (Local e Nuvem)](https://github.com/Dev-RuiDiniz/db-connection-project)** Integração Python ↔ SQL com **SQLAlchemy**, **Docker** e instâncias cloud (**AWS RDS / GCP Cloud SQL**). 
-  Uso de ORM, variáveis de ambiente e boas práticas de segurança.
+- **[Pipeline de Backup em Nuvem (AWS S3 + Google Cloud Storage)](https://github.com/Dev-RuiDiniz/cloud-backup-pipeline)**  
+  Sistema completo de automação que:  
+  * Gera relatórios automaticamente (CSV e Parquet)  
+  * Versiona arquivos por timestamp  
+  * Realiza upload simultâneo para AWS S3 e Google Cloud Storage  
+  * Mantém logs rotativos e estruturados  
+  * Permite execução manual ou automática via GitHub Actions  
+  * Inclui testes automatizados com pytest  
 
-- **[Gêmeo Digital Industrial em Python](#)** Simulação de processos industriais com **SimPy, SciPy e scikit-learn**. 
+- **[Conexão Python com MySQL e PostgreSQL (Local e Nuvem)](https://github.com/Dev-RuiDiniz/db-connection-project)**  
+  Integração Python ↔ SQL com **SQLAlchemy**, **Docker** e instâncias cloud (**AWS RDS / GCP Cloud SQL**).  
 
-- **[Dashboard Financeiro em Python](#)** Visualização de dados empresariais com **Streamlit, Pandas e Plotly**. 
+- **[Gêmeo Digital Industrial em Python](#)**  
+  Simulação de processos industriais com **SimPy, SciPy e scikit-learn**. 
 
-- **[API REST com FastAPI e Docker](#)** API RESTful containerizada com documentação Swagger e boas práticas de microsserviços. 
+- **[Dashboard Financeiro em Python](#)**  
+  Visualização de dados empresariais com **Streamlit, Pandas e Plotly**. 
 
-- **Projetos Java e C#:** API REST (Spring Boot), Board de Tarefas e Sistemas CRUD (ASP.NET). 
+- **[API REST com FastAPI e Docker](#)**  
+  API RESTful containerizada com documentação Swagger e boas práticas de microsserviços. 
+
+- **Projetos Java e C#:**  
+  API REST (Spring Boot), Board de Tarefas e Sistemas CRUD (ASP.NET). 
 
 ---
 
