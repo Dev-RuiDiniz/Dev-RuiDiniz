@@ -1,8 +1,8 @@
 <h1 align="center">Rui Francisco de Paula Inácio Diniz</h1>
-<p align="center"><strong>Engenheiro de Software | Desenvolvedor Back-End | Analista de Dados</strong></p>
+<p align="center"><strong>Engenheiro de Software | Desenvolvedor Back-End Python | Analista de Dados</strong></p>
 
 <p align="center">
-  <em>"Transformando dados e código em soluções de verdade."</em>
+  <em>"Transformando dados e código em soluções reais, escaláveis e inteligentes."</em>
 </p>
 
 <div align="center">
@@ -16,52 +16,53 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.dio.me/users/rui_pdiniz" target="_blank">
-    <img src="https://img.shields.io/badge/-DIO.me-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgMjAgMTUiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48L2RlZnM+PHBhdGggZD0wLDAsIGgyMCB2MTUgIGgtMjAgdi0xNXptNS41LDUuNSB2NCBIMTAuNSBWNS41IHptNCw0LjUgdi0zIGg0IHYtMSBoLTUgdiA1IGggMSB6IE0xNyw0LjUgdi01IGgtMSB2NSAweiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="DIO.me">
+    <img src="https://img.shields.io/badge/-DIO.me-000000?style=for-the-badge&logo=dio&logoColor=white" alt="DIO.me">
   </a>
 </div>
 
 ---
 
-Estudante de Engenharia de Software e Analista de Dados com foco em **Python, APIs REST, SQL e Business Intelligence**.
-Atualmente desenvolvo projetos que unem **automação, análise de dados e integração de sistemas**, com aplicação prática em ambientes **locais e em nuvem (AWS e GCP)**.
+Estudante de **Engenharia de Software** e Analista de Dados com foco em **desenvolvimento back-end, automação, APIs REST, SQL e soluções em nuvem (AWS e GCP)**.  
+Atuo criando projetos que unem **engenharia de software, dados e cloud computing**, com foco em escalabilidade, boas práticas e impacto real no negócio.
 
-Busco oportunidades como **Desenvolvedor Back-end ou Analista de Dados**, onde eu possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções escaláveis e inteligentes.
+Busco oportunidades como **Desenvolvedor Back-End Python** ou **Analista de Dados**, aplicando integrações, microsserviços, pipelines, ETL e modelagem de dados.
 
-Sou proativo, resiliente e apaixonado por aprendizado contínuo — especialmente na interseção entre **engenharia de software e dados**.
+Sou proativo, resiliente e guiado por aprendizado contínuo — especialmente na interseção entre **software, dados e cloud**.
 
-**Tecnologias:** Python | SQL | FastAPI | Django | Pandas | Power BI | Docker | Git | AWS | PostgreSQL | MySQL
+**Tecnologias principais:** Python | FastAPI | SQL | Docker | AWS | GCP | Power BI | Pandas | PostgreSQL | MySQL
 
 ---
 
 ## 💼 Experiência Profissional
 
-- **Analista de Dados – WMG Assistência Técnica (Set/2024 – Atual)**
-  - Desenvolvimento de scripts Python para automação e integração de sistemas.
-  - Consumo de APIs REST e criação de dashboards interativos com **Power BI, Plotly e HTML/CSS/JS**.
-  - Consultas SQL otimizadas em **MySQL e PostgreSQL**.
-  - Comunicação com stakeholders e tradução de requisitos de negócio em soluções técnicas.
-  - Versionamento e colaboração em equipe com **Git e GitHub**.
+### **Analista de Dados – WMG Assistência Técnica (Set/2024 – Atual)**
+- Automação de processos internos com Python (ETL, APIs, integrações).
+- Desenvolvimento de dashboards interativos com **Power BI, Plotly e aplicações web**.
+- Criação e consumo de APIs REST para integração entre sistemas internos.
+- Consultas SQL otimizadas e modelagem de dados em **MySQL e PostgreSQL**.
+- Extração, tratamento e padronização de dados de múltiplas fontes.
+- Versionamento e colaboração com **Git e GitHub**.
 
-- **Desenvolvedor Freelance (2025)**
-  - **Gêmeo Digital Industrial (Python):** simulação de linhas de produção com **SimPy, SciPy e scikit-learn**.
-  - **Dashboard Financeiro:** análise e visualização de dados com **Streamlit, Pandas e Plotly**.
-  - **Sistema de Conexão Python + Bancos SQL:** integração local e cloud com **SQLAlchemy, Docker, AWS RDS e GCP Cloud SQL**.
+### **Desenvolvedor Python Freelance (2025)**
+- **Gêmeo Digital Industrial (Python):** simulação de linhas de produção com **SimPy, SciPy e scikit-learn**.
+- **Dashboard Financeiro:** Streamlit + Plotly com KPIs empresariais.
+- **Integração Python + SQL:** pipelines SQLAlchemy + Docker + AWS/GCP.
+- **APIs REST:** criação de APIs escaláveis com FastAPI e containerização com Docker.
 
-- **Professor de Informática – Escola Pró Ativa (2018 – 2024)**
-  - Ensino de lógica de programação, hardware e pacote Office.
-  - Criação de materiais didáticos e projetos práticos.
+### **Professor de Informática – Escola Pró Ativa (2018 – 2024)**
+- Ensino de lógica de programação, informática básica e hardware.
+- Desenvolvimento de materiais e projetos práticos para alunos.
 
 ---
 
 ## 🛠 Habilidades Técnicas
 
 - **Linguagens:** Python, Java, JavaScript, SQL, C# (básico)  
-- **Frameworks & APIs:** FastAPI, Flask, Spring Boot, Spring Security  
-- **Banco de Dados:** MySQL, PostgreSQL, SQL Server, MongoDB  
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, IAM), Docker, GCP Cloud SQL  
-- **Ferramentas:** Power BI, Git, GitHub, Excel Avançado, Streamlit  
-- **Metodologias:** Scrum, Kanban, TDD  
-- **Conceitos:** POO, ORM, Data Pipelines, ETL, APIs REST  
+- **Frameworks Back-end:** FastAPI, Flask, Django, Spring Boot  
+- **Banco de Dados:** PostgreSQL, MySQL, SQL Server, MongoDB  
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, GitHub Actions, GCP Cloud SQL  
+- **Ferramentas:** Power BI, Git, SQLAlchemy, Alembic, Streamlit  
+- **Conceitos:** ETL, Data Pipelines, Microsserviços, POO, TDD, APIs REST, Modelagem de Dados  
 
 <div> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
@@ -80,43 +81,43 @@ Sou proativo, resiliente e apaixonado por aprendizado contínuo — especialment
 
 - **Power BI – Santander OpenAcademy (Nov/2025)**  
 - **Santander 2025 – Back-End com Python (DIO)**  
-- **Bootcamp Machine Learning – BairesDev**  
-- **Bootcamp GFT Start #7 – Java (DIO)**  
-- **Akad – Fullstack Developer (.NET, C# e React)**  
 - **Google Data Analytics – Coursera**  
+- **Bootcamp Machine Learning – BairesDev**  
+- **GFT Start #7 – Java (DIO)**  
+- **Akad – Fullstack Developer (.NET, C# e React)**  
 - **Universia – Fundamentos de IA Generativa**
 
 ---
 
 ## 🚀 Projetos Relevantes
 
-- **[Pipeline ETL Automatizado — AWS + Python](https://github.com/Dev-RuiDiniz/etl-pipeline-aws)**  
-  Pipeline ETL serverless desenvolvido para extrair dados de uma **API pública**, transformá-los com **Pandas** e carregá-los em um banco **PostgreSQL (AWS RDS)**.  
-  Logs e arquivos de auditoria são armazenados no **Amazon S3**. Inclui **tratamento de exceções**, **estrutura modular**, **Pydantic Settings**, **Dockerfile**, **SAM/CDK template** e **testes com pytest**.
+- **<a href="https://github.com/Dev-RuiDiniz/etl-pipeline-aws" target="_blank">Pipeline ETL Automatizado — AWS + Python</a>**  
+  Pipeline serverless completo: extração de API, transformação com Pandas, carga em PostgreSQL (AWS RDS), logs no S3, Dockerfile, Pytest, CDK/SAM e Pydantic Settings.
 
-- **[Pipeline de Backup em Nuvem (AWS S3 + Google Cloud Storage)](https://github.com/Dev-RuiDiniz/cloud-backup-pipeline)**  
-  Sistema completo de automação que:  
-  * Gera relatórios automaticamente (CSV e Parquet)  
-  * Versiona arquivos por timestamp  
-  * Realiza upload simultâneo para AWS S3 e Google Cloud Storage  
-  * Mantém logs rotativos e estruturados  
-  * Permite execução manual ou automática via GitHub Actions  
-  * Inclui testes automatizados com pytest  
+- **<a href="https://github.com/Dev-RuiDiniz/cloud-backup-pipeline" target="_blank">Pipeline Multicloud AWS + GCP</a>**  
+  Upload simultâneo AWS S3 + GCS, versionamento por timestamp, relatórios CSV/Parquet, logs estruturados e CI/CD com GitHub Actions.
 
-- **[Conexão Python com MySQL e PostgreSQL (Local e Nuvem)](https://github.com/Dev-RuiDiniz/db-connection-project)**  
-  Integração Python ↔ SQL com **SQLAlchemy**, **Docker** e instâncias cloud (**AWS RDS / GCP Cloud SQL**).  
+- **<a href="https://github.com/Dev-RuiDiniz/db-connection-project" target="_blank">Integração Python + MySQL/PostgreSQL (Local & Cloud)</a>**  
+  Projeto com SQLAlchemy, Docker, MySQL/PostgreSQL, AWS RDS e GCP Cloud SQL.
 
-- **[Gêmeo Digital Industrial em Python](#)**  
-  Simulação de processos industriais com **SimPy, SciPy e scikit-learn**. 
+- **<a href="https://github.com/Dev-RuiDiniz/Gemeo-Digital" target="_blank">Gêmeo Digital Industrial</a>**  
+  Simulação completa de linhas de produção com SimPy, SciPy e scikit-learn.
 
-- **[Dashboard Financeiro em Python](#)**  
-  Visualização de dados empresariais com **Streamlit, Pandas e Plotly**. 
+- **<a href="https://github.com/Dev-RuiDiniz/finance_dashboard" target="_blank">Dashboard Financeiro</a>**  
+  KPIs financeiros, gráficos interativos e visualização de dados com Streamlit e Plotly.
 
-- **[API REST com FastAPI e Docker](#)**  
-  API RESTful containerizada com documentação Swagger e boas práticas de microsserviços. 
+- **<a href="https://github.com/Dev-RuiDiniz/store_api" target="_blank">API REST com FastAPI + Docker</a>**  
+  API com JWT, CRUD completo, Swagger, validações e arquitetura de microsserviços containerizada.
 
-- **Projetos Java e C#:**  
-  API REST (Spring Boot), Board de Tarefas e Sistemas CRUD (ASP.NET). 
+- **<a href="https://github.com/Dev-RuiDiniz/services_view" target="_blank">Sistema Web de Ordens de Serviço</a>**  
+  Aplicação Python + NoSQL com filtros, cadastro, prazos e painel web intuitivo.
+
+- **<a href="https://github.com/Dev-RuiDiniz/Relatorio-AWS" target="_blank">Sistema de Relatórios Automáticos — AWS</a>**  
+  Automação de geração de relatórios com Python, AWS, logs e processamento estruturado.
+
+- **<a href="https://github.com/Dev-RuiDiniz/gcp-serverless-etl-pipeline" target="_blank">Pipeline ETL Serverless — GCP</a>**  
+  Cloud Functions, Cloud Storage, Data Pipeline, validações com Pydantic, arquitetura escalável e deploy em nuvem Google.
+
 
 ---
 
