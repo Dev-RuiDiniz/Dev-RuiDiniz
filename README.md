@@ -44,6 +44,7 @@ Sou proativo, resiliente e guiado por aprendizado contínuo — especialmente na
 - Versionamento e colaboração com **Git e GitHub**.
 
 ### **Desenvolvedor Python Freelance (2025)**
+- **Automação de Relatórios Financeiros:** Automação completa (leitura, validação, consolidação) de planilhas financeiras, com geração de relatórios em PDF/Excel e arquitetura flexível baseada em configuração YAML.
 - **Gêmeo Digital Industrial (Python):** simulação de linhas de produção com **SimPy, SciPy e scikit-learn**.
 - **Dashboard Financeiro:** Streamlit + Plotly com KPIs empresariais.
 - **Integração Python + SQL:** pipelines SQLAlchemy + Docker + AWS/GCP.
@@ -89,35 +90,39 @@ Sou proativo, resiliente e guiado por aprendizado contínuo — especialmente na
 
 ---
 
+---
+
 ## 🚀 Projetos Relevantes
 
-- **<a href="https://github.com/Dev-RuiDiniz/etl-pipeline-aws" target="_blank">Pipeline ETL Automatizado — AWS + Python</a>**  
-  Pipeline serverless completo: extração de API, transformação com Pandas, carga em PostgreSQL (AWS RDS), logs no S3, Dockerfile, Pytest, CDK/SAM e Pydantic Settings.
+- **<a href="https://github.com/Dev-RuiDiniz/financial_automation" target="_blank">Automação de Relatórios Financeiros</a>**
+  Automação completa para leitura, validação e consolidação de planilhas financeiras, incluindo geração de métricas, gráficos, relatórios em PDF e exportação final em Excel com formatação profissional e arquitetura flexível baseada em configuração YAML.
 
-- **<a href="https://github.com/Dev-RuiDiniz/cloud-backup-pipeline" target="_blank">Pipeline Multicloud AWS + GCP</a>**  
-  Upload simultâneo AWS S3 + GCS, versionamento por timestamp, relatórios CSV/Parquet, logs estruturados e CI/CD com GitHub Actions.
+- **<a href="https://github.com/Dev-RuiDiniz/etl-pipeline-aws" target="_blank">Pipeline ETL Automatizado — AWS + Python</a>**  
+  Pipeline serverless completo: extração de API, transformação com Pandas, carga em PostgreSQL (AWS RDS), logs no S3, Dockerfile, Pytest, CDK/SAM e Pydantic Settings.
 
-- **<a href="https://github.com/Dev-RuiDiniz/db-connection-project" target="_blank">Integração Python + MySQL/PostgreSQL (Local & Cloud)</a>**  
-  Projeto com SQLAlchemy, Docker, MySQL/PostgreSQL, AWS RDS e GCP Cloud SQL.
+- **<a href="https://github.com/Dev-RuiDiniz/cloud-backup-pipeline" target="_blank">Pipeline Multicloud AWS + GCP</a>**  
+  Upload simultâneo AWS S3 + GCS, versionamento por timestamp, relatórios CSV/Parquet, logs estruturados e CI/CD com GitHub Actions.
 
-- **<a href="https://github.com/Dev-RuiDiniz/Gemeo-Digital" target="_blank">Gêmeo Digital Industrial</a>**  
-  Simulação completa de linhas de produção com SimPy, SciPy e scikit-learn.
+- **<a href="https://github.com/Dev-RuiDiniz/db-connection-project" target="_blank">Integração Python + MySQL/PostgreSQL (Local & Cloud)</a>**  
+  Projeto com SQLAlchemy, Docker, MySQL/PostgreSQL, AWS RDS e GCP Cloud SQL.
 
-- **<a href="https://github.com/Dev-RuiDiniz/finance_dashboard" target="_blank">Dashboard Financeiro</a>**  
-  KPIs financeiros, gráficos interativos e visualização de dados com Streamlit e Plotly.
+- **<a href="https://github.com/Dev-RuiDiniz/Gemeo-Digital" target="_blank">Gêmeo Digital Industrial</a>**  
+  Simulação completa de linhas de produção com SimPy, SciPy e scikit-learn.
 
-- **<a href="https://github.com/Dev-RuiDiniz/store_api" target="_blank">API REST com FastAPI + Docker</a>**  
-  API com JWT, CRUD completo, Swagger, validações e arquitetura de microsserviços containerizada.
+- **<a href="https://github.RuiDiniz/finance_dashboard" target="_blank">Dashboard Financeiro</a>**  
+  KPIs financeiros, gráficos interativos e visualização de dados com Streamlit e Plotly.
 
-- **<a href="https://github.com/Dev-RuiDiniz/services_view" target="_blank">Sistema Web de Ordens de Serviço</a>**  
-  Aplicação Python + NoSQL com filtros, cadastro, prazos e painel web intuitivo.
+- **<a href="https://github.com/Dev-RuiDiniz/store_api" target="_blank">API REST com FastAPI + Docker</a>**  
+  API com JWT, CRUD completo, Swagger, validações e arquitetura de microsserviços containerizada.
 
-- **<a href="https://github.com/Dev-RuiDiniz/Relatorio-AWS" target="_blank">Sistema de Relatórios Automáticos — AWS</a>**  
-  Automação de geração de relatórios com Python, AWS, logs e processamento estruturado.
+- **<a href="https://github.com/Dev-RuiDiniz/services_view" target="_blank">Sistema Web de Ordens de Serviço</a>**  
+  Aplicação Python + NoSQL com filtros, cadastro, prazos e painel web intuitivo.
 
-- **<a href="https://github.com/Dev-RuiDiniz/gcp-serverless-etl-pipeline" target="_blank">Pipeline ETL Serverless — GCP</a>**  
-  Cloud Functions, Cloud Storage, Data Pipeline, validações com Pydantic, arquitetura escalável e deploy em nuvem Google.
+- **<a href="https://github.com/Dev-RuiDiniz/Relatorio-AWS" target="_blank">Sistema de Relatórios Automáticos — AWS</a>**  
+  Automação de geração de relatórios com Python, AWS, logs e processamento estruturado.
 
+- **<a href="https://github.com/Dev-RuiDiniz/gcp-serverless-etl-pipeline" target="_blank">Pipeline ETL Serverless — GCP</a>**  
+  Cloud Functions, Cloud Storage, Data Pipeline, validações com Pydantic, arquitetura escalável e deploy em nuvem Google.
 
 ---
 
