@@ -129,9 +129,9 @@ Sou proativo, resiliente e guiado por aprendizado contínuo — especialmente na
 ## 📊 GitHub Analytics
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-RuiDiniz&theme=algolia&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-RuiDiniz&theme=dark&hide_border=true"/>
 </div>
