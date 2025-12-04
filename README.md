@@ -80,11 +80,12 @@ Sou proativo, resiliente e guiado por aprendizado contínuo — especialmente na
 
 ## 🎓 Cursos e Certificações
 
-- **Power BI – Santander OpenAcademy (Nov/2025)**  
+- **Santander 2025 - Ciência de Dados com Python**
+- **Power BI – Santander OpenAcademy**  
 - **Santander 2025 – Back-End com Python (DIO)**  
 - **Google Data Analytics – Coursera**  
 - **Bootcamp Machine Learning – BairesDev**  
-- **GFT Start #7 – Java (DIO)**  
+- **GFT Start #7 – Java**  
 - **Akad – Fullstack Developer (.NET, C# e React)**  
 - **Universia – Fundamentos de IA Generativa**
 
