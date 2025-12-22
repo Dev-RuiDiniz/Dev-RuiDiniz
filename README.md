@@ -25,7 +25,7 @@
 Estudante de **Engenharia de Software** e Analista de Dados com foco em **desenvolvimento back-end, automação, APIs REST, SQL e soluções em nuvem (AWS e GCP)**.  
 Atuo criando projetos que unem **engenharia de software, dados e cloud computing**, com foco em escalabilidade, boas práticas e impacto real no negócio.
 
-Busco oportunidades como **Desenvolvedor Back-End Python** ou **Analista de Dados**, aplicando integrações, microsserviços, pipelines, ETL e modelagem de dados.
+Busco oportunidades como **Desenvolvedor Back-End Python**, aplicando integrações, desenvolvimento, microsserviços, pipelines, ETL e modelagem de dados.
 
 Sou proativo, resiliente e guiado por aprendizado contínuo — especialmente na interseção entre **software, dados e cloud**.
 
