@@ -1,5 +1,5 @@
 <h1 align="center">Rui Francisco de Paula Inácio Diniz</h1>
-<p align="center"><strong>Engenheiro de Software | Desenvolvedor Back-End Python | Analista de Dados</strong></p>
+<p align="center"><strong>Engenheiro de Software | Desenvolvedor Back-End Python | Django | APIRest</strong></p>
 
 <p align="center">
   <em>"Transformando dados e código em soluções reais, escaláveis e inteligentes."</em>
