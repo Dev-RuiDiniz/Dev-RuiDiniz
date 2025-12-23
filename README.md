@@ -88,8 +88,8 @@ Sou proativo, resiliente e guiado por aprendizado contínuo — especialmente na
 - **GFT Start #7 – Java**  
 - **Akad – Fullstack Developer (.NET, C# e React)**  
 - **Universia – Fundamentos de IA Generativa**
-
----
+- **Formação em Lógica da Programação - DIO**
+- **GitHub Copilot - Código na Prática - DIO**
 
 ---
 
