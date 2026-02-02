@@ -1,138 +1,169 @@
-<h1 align="center">Rui Francisco de Paula Inácio Diniz</h1>
-<p align="center"><strong>Engenheiro de Software | Desenvolvedor Back-End Python | Django | APIRest</strong></p>
+# Rui Francisco de Paula Inácio Diniz
 
 <p align="center">
-  <em>"Transformando dados e código em soluções reais, escaláveis e inteligentes."</em>
+  <strong>Engenheiro de Software | Back-End & Fullstack | Python | .NET | Cloud & Data</strong>
+</p>
+
+<p align="center">
+  <em>Transformando dados, código e arquitetura em soluções escaláveis, seguras e orientadas a negócio.</em>
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ruif-diniz" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rui.pdiniz@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Dev-RuiDiniz" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.dio.me/users/rui_pdiniz" target="_blank">
-    <img src="https://img.shields.io/badge/-DIO.me-000000?style=for-the-badge&logo=dio&logoColor=white" alt="DIO.me">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-Estudante de **Engenharia de Software** e Analista de Dados com foco em **desenvolvimento back-end, automação, APIs REST, SQL e soluções em nuvem (AWS e GCP)**.  
-Atuo criando projetos que unem **engenharia de software, dados e cloud computing**, com foco em escalabilidade, boas práticas e impacto real no negócio.
+## 🚀 Sobre mim
 
-Busco oportunidades como **Desenvolvedor Back-End Python**, aplicando integrações, desenvolvimento, microsserviços, pipelines, ETL e modelagem de dados.
+Sou **Engenheiro de Software** e **Analista de Dados**, com atuação sólida em **Back-End, Fullstack e Arquitetura de Sistemas**, integrando **Python e .NET** para criar soluções **escaláveis, seguras e orientadas a dados**.
 
-Sou proativo, resiliente e guiado por aprendizado contínuo — especialmente na interseção entre **software, dados e cloud**.
+Tenho experiência prática em:
 
-**Tecnologias principais:** Python | FastAPI | SQL | Docker | AWS | GCP | Power BI | Pandas | PostgreSQL | MySQL
+- Desenvolvimento de **APIs REST e microsserviços**
+- **Pipelines ETL**, automação e engenharia de dados
+- **Arquiteturas Cloud** (AWS e GCP)
+- **Segurança de aplicações** (JWT, OAuth2, hardening, LGPD)
+- Sistemas **financeiros, industriais e SaaS**
+
+🎯 Busco oportunidades como **Back-End Developer, Fullstack Developer, Cloud Engineer ou Software Engineer**, em ambientes orientados a produto e impacto real no negócio.
+
+---
+
+## 🧠 Stack Principal
+
+### 🔹 Back-End & APIs
+- Python (FastAPI, Flask, Django)
+- C# (.NET 6/8, ASP.NET Core)
+- Spring Boot
+
+### 🔹 Dados & ETL
+- Pandas, NumPy
+- SQLAlchemy, Alembic
+- Power BI, Plotly, Streamlit
+
+### 🔹 Bancos de Dados
+- PostgreSQL, MySQL
+- SQL Server
+- MongoDB, DynamoDB
+
+### 🔹 Cloud & DevOps
+- AWS (EC2, ECS/Fargate, Lambda, S3, RDS)
+- GCP (Cloud Functions, Cloud SQL, Cloud Storage)
+- Docker, CI/CD, GitHub Actions, Terraform
+
+### 🔹 Arquitetura & Conceitos
+- Microsserviços
+- Clean Architecture
+- SaaS
+- SOLID, TDD
+- APIs REST, ETL
+
+### 🔹 Segurança
+- JWT, OAuth2
+- Hardening de aplicações
+- Criptografia
+- Conformidade com LGPD
 
 ---
 
 ## 💼 Experiência Profissional
 
-### **Analista de Dados – WMG Assistência Técnica (Set/2024 – Atual)**
-- Automação de processos internos com Python (ETL, APIs, integrações).
-- Desenvolvimento de dashboards interativos com **Power BI, Plotly e aplicações web**.
-- Criação e consumo de APIs REST para integração entre sistemas internos.
-- Consultas SQL otimizadas e modelagem de dados em **MySQL e PostgreSQL**.
-- Extração, tratamento e padronização de dados de múltiplas fontes.
-- Versionamento e colaboração com **Git e GitHub**.
+### **Analista de Dados — WMG Assistência Técnica**
+📅 *Set/2024 – Atual*
 
-### **Desenvolvedor Python Freelance (2025)**
-- **Automação de Relatórios Financeiros:** Automação completa (leitura, validação, consolidação) de planilhas financeiras, com geração de relatórios em PDF/Excel e arquitetura flexível baseada em configuração YAML.
-- **Gêmeo Digital Industrial (Python):** simulação de linhas de produção com **SimPy, SciPy e scikit-learn**.
-- **Dashboard Financeiro:** Streamlit + Plotly com KPIs empresariais.
-- **Integração Python + SQL:** pipelines SQLAlchemy + Docker + AWS/GCP.
-- **APIs REST:** criação de APIs escaláveis com FastAPI e containerização com Docker.
-
-### **Professor de Informática – Escola Pró Ativa (2018 – 2024)**
-- Ensino de lógica de programação, informática básica e hardware.
-- Desenvolvimento de materiais e projetos práticos para alunos.
+- Desenvolvimento de **pipelines ETL em Python**, reduzindo dezenas de horas mensais de trabalho manual.
+- Criação de **dashboards estratégicos** com Power BI e Plotly.
+- Implementação de **APIs REST** para integração entre sistemas internos.
+- Modelagem e otimização de consultas em **PostgreSQL e MySQL**.
+- Versionamento e colaboração utilizando **Git e GitHub**.
 
 ---
 
-## 🛠 Habilidades Técnicas
+### **Desenvolvedor Fullstack / Back-End — Projetos PJ & Consultoria**
+📅 *2021 – Atual*
 
-- **Linguagens:** Python, Java, JavaScript, SQL, C# (básico)  
-- **Frameworks Back-end:** FastAPI, Flask, Django, Spring Boot  
-- **Banco de Dados:** PostgreSQL, MySQL, SQL Server, MongoDB  
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, GitHub Actions, GCP Cloud SQL  
-- **Ferramentas:** Power BI, Git, SQLAlchemy, Alembic, Streamlit  
-- **Conceitos:** ETL, Data Pipelines, Microsserviços, POO, TDD, APIs REST, Modelagem de Dados  
+- **Sistema de Monitoramento de Licitações**
+  - Arquitetura modular integrada a SaaS.
+  - Back-end em **C#/.NET**.
+  - Navegador corporativo customizado (Chromium/WebView).
+  - **Python** para análise de dados e geração de rankings de mercado.
 
-<div> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
-</div>
+- **Aurum Foundation — Fintech (Cloud-First)**
+  - Arquitetura SaaS na **AWS**.
+  - Microsserviços, automações financeiras e CI/CD.
+  - Integrações com IA e Web3.
 
----
+- **Automação Financeira & Infraestrutura**
+  - Validação e consolidação de planilhas.
+  - Geração automática de relatórios (PDF e Excel).
+  - Containerização com **Docker** e deploy em **AWS e GCP**.
 
-## 🎓 Cursos e Certificações
-
-- **Santander 2025 - Ciência de Dados com Python**
-- **Power BI – Santander OpenAcademy**  
-- **Santander 2025 – Back-End com Python (DIO)**  
-- **Google Data Analytics – Coursera**  
-- **Bootcamp Machine Learning – BairesDev**  
-- **GFT Start #7 – Java**  
-- **Akad – Fullstack Developer (.NET, C# e React)**  
-- **Universia – Fundamentos de IA Generativa**
-- **Formação em Lógica da Programação - DIO**
-- **GitHub Copilot - Código na Prática - DIO**
+- **Segurança Web & WordPress**
+  - Remoção de malware.
+  - Hardening de aplicações e implementação de 2FA.
 
 ---
 
-## 🚀 Projetos Relevantes
+### **Professor de Informática — Escola Pró Ativa**
+📅 *2018 – 2020*
 
-- **<a href="https://github.com/Dev-RuiDiniz/financial_automation" target="_blank">Automação de Relatórios Financeiros</a>**
-  Automação completa para leitura, validação e consolidação de planilhas financeiras, incluindo geração de métricas, gráficos, relatórios em PDF e exportação final em Excel com formatação profissional e arquitetura flexível baseada em configuração YAML.
+- Ensino de lógica de programação e informática.
+- Desenvolvimento de projetos práticos e materiais didáticos.
+- Comunicação técnica para públicos diversos.
 
-- **<a href="https://github.com/Dev-RuiDiniz/etl-pipeline-aws" target="_blank">Pipeline ETL Automatizado — AWS + Python</a>**  
-  Pipeline serverless completo: extração de API, transformação com Pandas, carga em PostgreSQL (AWS RDS), logs no S3, Dockerfile, Pytest, CDK/SAM e Pydantic Settings.
+---
 
-- **<a href="https://github.com/Dev-RuiDiniz/cloud-backup-pipeline" target="_blank">Pipeline Multicloud AWS + GCP</a>**  
-  Upload simultâneo AWS S3 + GCS, versionamento por timestamp, relatórios CSV/Parquet, logs estruturados e CI/CD com GitHub Actions.
+## 🚀 Projetos em Destaque
 
-- **<a href="https://github.com/Dev-RuiDiniz/db-connection-project" target="_blank">Integração Python + MySQL/PostgreSQL (Local & Cloud)</a>**  
-  Projeto com SQLAlchemy, Docker, MySQL/PostgreSQL, AWS RDS e GCP Cloud SQL.
+- 🔗 **Automação de Relatórios Financeiros (Python)**  
+  ETL completo, métricas, gráficos, geração de PDF/Excel e arquitetura configurável via YAML.
 
-- **<a href="https://github.com/Dev-RuiDiniz/Gemeo-Digital" target="_blank">Gêmeo Digital Industrial</a>**  
-  Simulação completa de linhas de produção com SimPy, SciPy e scikit-learn.
+- 🔗 **Pipeline ETL Serverless — AWS & GCP**  
+  Extração de APIs, transformação com Pandas, carga em PostgreSQL, logs estruturados e CI/CD.
 
-- **<a href="https://github.RuiDiniz/finance_dashboard" target="_blank">Dashboard Financeiro</a>**  
-  KPIs financeiros, gráficos interativos e visualização de dados com Streamlit e Plotly.
+- 🔗 **API REST com FastAPI + Docker**  
+  JWT, CRUD completo, Swagger, validações e arquitetura de microsserviços.
 
-- **<a href="https://github.com/Dev-RuiDiniz/store_api" target="_blank">API REST com FastAPI + Docker</a>**  
-  API com JWT, CRUD completo, Swagger, validações e arquitetura de microsserviços containerizada.
+- 🔗 **Gêmeo Digital Industrial**  
+  Simulação de linhas de produção com SimPy, SciPy e scikit-learn.
 
-- **<a href="https://github.com/Dev-RuiDiniz/services_view" target="_blank">Sistema Web de Ordens de Serviço</a>**  
-  Aplicação Python + NoSQL com filtros, cadastro, prazos e painel web intuitivo.
+- 🔗 **Dashboard Financeiro**  
+  KPIs empresariais com Streamlit e Plotly.
 
-- **<a href="https://github.com/Dev-RuiDiniz/Relatorio-AWS" target="_blank">Sistema de Relatórios Automáticos — AWS</a>**  
-  Automação de geração de relatórios com Python, AWS, logs e processamento estruturado.
+---
 
-- **<a href="https://github.com/Dev-RuiDiniz/gcp-serverless-etl-pipeline" target="_blank">Pipeline ETL Serverless — GCP</a>**  
-  Cloud Functions, Cloud Storage, Data Pipeline, validações com Pydantic, arquitetura escalável e deploy em nuvem Google.
+## 🎓 Formação Acadêmica
+
+- 🎓 **Engenharia de Software** — Em andamento  
+- 🎓 **Tecnólogo em Comércio Exterior** — UNIP  
+- 🎓 **Técnico em Informática** — ETEC  
+
+---
+
+## 📜 Certificações
+
+- Ciência de Dados & Back-End Python — Santander / DIO  
+- Google Data Analytics — Coursera  
+- Fullstack (.NET + React) — Akad / DIO  
+- Machine Learning — BairesDev  
+- Power BI — Santander Open Academy  
+- Fundamentos de IA Generativa — Universia  
 
 ---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-RuiDiniz&theme=dark&hide_border=true"/>
 </div>
