@@ -163,7 +163,14 @@ Tenho experiência prática em:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-RuiDiniz&theme=dark&hide_border=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=86400&v=1"
+       alt="Top Langs"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&v=1"
+       alt="GitHub Stats"/>
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=Dev-RuiDiniz&theme=dark&hide_border=true&cache_seconds=86400&v=1"
+       alt="GitHub Streak"/>
 </div>
+
