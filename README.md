@@ -1,11 +1,11 @@
 # Rui Francisco de Paula Inácio Diniz
 
 <p align="center">
-  <strong>Engenheiro de Software | Back-End & Fullstack | Python | .NET | Cloud & Data</strong>
+  <strong>Engenheiro de Software | Back-End & Fullstack | Python | .NET | Cloud | Data & Fintech</strong>
 </p>
 
 <p align="center">
-  <em>Transformando dados, código e arquitetura em soluções escaláveis, seguras e orientadas a negócio.</em>
+  <em>Especialista em transformar problemas complexos de negócio em sistemas escaláveis, seguros e orientados a dados.</em>
 </p>
 
 <div align="center">
@@ -22,122 +22,139 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🔍 Visão Geral (Perfil Profissional)
 
-Sou **Engenheiro de Software** e **Analista de Dados**, com atuação sólida em **Back-End, Fullstack e Arquitetura de Sistemas**, integrando **Python e .NET** para criar soluções **escaláveis, seguras e orientadas a dados**.
+Sou **Engenheiro de Software** com forte especialização em **Back-End, Arquitetura de Sistemas e Engenharia de Dados**, atuando diretamente em **projetos críticos de negócio**, especialmente nos setores **financeiro, SaaS, Web3, dados e automação**.
 
-Tenho experiência prática em:
+Meu diferencial está em **entregar sistemas prontos para produção**, não apenas código:
+- Arquitetura bem definida  
+- Regras de negócio protegidas  
+- Segurança aplicada desde o design  
+- Observabilidade, escalabilidade e custo sob controle  
 
-- Desenvolvimento de **APIs REST e microsserviços**
-- **Pipelines ETL**, automação e engenharia de dados
-- **Arquiteturas Cloud** (AWS e GCP)
-- **Segurança de aplicações** (JWT, OAuth2, hardening, LGPD)
-- Sistemas **financeiros, industriais e SaaS**
+Trabalho com **Python e .NET** em ambientes **cloud-native**, sempre orientado a **impacto mensurável**, **qualidade técnica** e **manutenibilidade de longo prazo**.
 
-🎯 Busco oportunidades como **Back-End Developer, Fullstack Developer, Cloud Engineer ou Software Engineer**, em ambientes orientados a produto e impacto real no negócio.
+🎯 **Perfis de interesse:**  
+**Back-End Engineer | Software Engineer | Cloud Engineer | Fullstack Engineer**
 
 ---
 
-## 🧠 Stack Principal
+## ⭐ Principais Diferenciais (O que me destaca)
 
-### 🔹 Back-End & APIs
-- Python (FastAPI, Flask, Django)
+- Forte domínio de **arquitetura back-end e APIs REST**
+- Experiência real com **pipelines ETL e engenharia de dados**
+- Atuação em **sistemas financeiros e regras críticas**
+- Mentalidade **cloud-first** (AWS) e orientação a custos
+- Segurança aplicada na prática (**JWT, OAuth2, RBAC, LGPD**)
+- Código limpo, testável e orientado a domínio (**Clean Architecture, SOLID**)
+- Comunicação técnica clara (documentação, alinhamento e mentoria)
+
+---
+
+## 🧠 Stack Técnica Principal
+
+### Back-End & APIs
+- Python (FastAPI, Django, Flask)
 - C# (.NET 6/8, ASP.NET Core)
-- Spring Boot
+- APIs REST, Pydantic, SQLAlchemy
 
-### 🔹 Dados & ETL
+### Dados & Engenharia
 - Pandas, NumPy
-- SQLAlchemy, Alembic
+- Pipelines ETL, Data Validation
 - Power BI, Plotly, Streamlit
 
-### 🔹 Bancos de Dados
-- PostgreSQL, MySQL
-- SQL Server
+### Bancos de Dados
+- PostgreSQL, MySQL, SQL Server
+- SQLite
 - MongoDB, DynamoDB
 
-### 🔹 Cloud & DevOps
+### Cloud & DevOps
 - AWS (EC2, ECS/Fargate, Lambda, S3, RDS)
-- GCP (Cloud Functions, Cloud SQL, Cloud Storage)
-- Docker, CI/CD, GitHub Actions, Terraform
+- Docker
+- CI/CD com GitHub Actions
 
-### 🔹 Arquitetura & Conceitos
-- Microsserviços
+### Arquitetura & Qualidade
 - Clean Architecture
-- SaaS
 - SOLID, TDD
-- APIs REST, ETL
+- Microsserviços
+- SaaS
+- Observabilidade e logs estruturados
 
-### 🔹 Segurança
+### Segurança
 - JWT, OAuth2
-- Hardening de aplicações
-- Criptografia
+- RBAC (controle de acesso por perfil)
+- Criptografia de dados sensíveis
 - Conformidade com LGPD
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Experiência Profissional Relevante
 
-### **Analista de Dados — WMG Assistência Técnica**
-📅 *Set/2024 – Atual*
+### Analista de Dados / Desenvolvedor Back-End — WMG Assistência Técnica
+**Set/2024 – Atual**
 
-- Desenvolvimento de **pipelines ETL em Python**, reduzindo dezenas de horas mensais de trabalho manual.
-- Criação de **dashboards estratégicos** com Power BI e Plotly.
+- Desenvolvimento de **pipelines ETL em Python**, reduzindo **mais de 50 horas mensais** de trabalho manual.
+- Criação de **dashboards estratégicos** utilizados diretamente pela gestão.
 - Implementação de **APIs REST** para integração entre sistemas internos.
 - Modelagem e otimização de consultas em **PostgreSQL e MySQL**.
-- Versionamento e colaboração utilizando **Git e GitHub**.
+- Atuação com versionamento, revisão de código e colaboração em **Git/GitHub**.
 
 ---
 
-### **Desenvolvedor Fullstack / Back-End — Projetos PJ & Consultoria**
-📅 *2021 – Atual*
+### Engenheiro de Software / Desenvolvedor Back-End (PJ) — DB Tecnologia
+**2024 – Atual**
 
-- **Sistema de Monitoramento de Licitações**
-  - Arquitetura modular integrada a SaaS.
-  - Back-end em **C#/.NET**.
-  - Navegador corporativo customizado (Chromium/WebView).
-  - **Python** para análise de dados e geração de rankings de mercado.
+Atuação como responsável técnico em projetos de **finanças, automação, IA aplicada, trading automatizado e plataformas cloud-native**.
 
-- **Aurum Foundation — Fintech (Cloud-First)**
-  - Arquitetura SaaS na **AWS**.
-  - Microsserviços, automações financeiras e CI/CD.
-  - Integrações com IA e Web3.
+**Principais projetos:**
 
-- **Automação Financeira & Infraestrutura**
-  - Validação e consolidação de planilhas.
-  - Geração automática de relatórios (PDF e Excel).
-  - Containerização com **Docker** e deploy em **AWS e GCP**.
+- **Robô de Trading Automatizado (MetaTrader 5)**
+  - Desenvolvimento de Expert Advisor (EA) em **MQL5**.
+  - Arquitetura modular, controle de risco, validações por ativo.
+  - Estratégias com Stop Loss, Take Profit e Trailing Stop.
 
-- **Segurança Web & WordPress**
-  - Remoção de malware.
-  - Hardening de aplicações e implementação de 2FA.
+- **WB3.Foundation — Plataforma Financeira Web3**
+  - Desenvolvimento e desenho arquitetural de backend **cloud-native**.
+  - Microsserviços, APIs financeiras, integração com blockchain EVM.
+  - Segurança com **JWT/OAuth2**, CI/CD e práticas de compliance (LGPD).
+
+- **Sistema de Gestão Social Institucional (Python + FastAPI)**
+  - Sistema web completo com **regras de negócio críticas**.
+  - Autenticação JWT, **RBAC**, auditoria e relatórios PDF/CSV.
+  - Modelagem de domínios complexos e dados sensíveis.
+
+- **Automação Financeira & Dados**
+  - Consolidação e validação automática de planilhas.
+  - Geração de relatórios executivos (PDF/Excel).
+  - Redução significativa de esforço operacional.
 
 ---
 
-### **Professor de Informática — Escola Pró Ativa**
-📅 *2018 – 2020*
+### Professor de Informática — Escola Pró Ativa
+**2018 – 2024**
 
-- Ensino de lógica de programação e informática.
-- Desenvolvimento de projetos práticos e materiais didáticos.
-- Comunicação técnica para públicos diversos.
+- Ensino de lógica de programação e fundamentos de software.
+- Desenvolvimento de projetos práticos.
+- Forte evolução em **comunicação técnica, didática e mentoria**.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- 🔗 **Automação de Relatórios Financeiros (Python)**  
-  ETL completo, métricas, gráficos, geração de PDF/Excel e arquitetura configurável via YAML.
+- **Automação de Relatórios Financeiros (Python)**  
+  ETL completo, validação de dados, métricas e geração automática de PDF/Excel.
 
-- 🔗 **Pipeline ETL Serverless — AWS & GCP**  
-  Extração de APIs, transformação com Pandas, carga em PostgreSQL, logs estruturados e CI/CD.
+- **Pipeline ETL Cloud-Native (AWS)**  
+  Extração de APIs, transformação com Pandas, carga em PostgreSQL e CI/CD.
 
-- 🔗 **API REST com FastAPI + Docker**  
-  JWT, CRUD completo, Swagger, validações e arquitetura de microsserviços.
+- **API REST com FastAPI + Docker**  
+  CRUD completo, autenticação JWT, documentação OpenAPI e arquitetura escalável.
 
-- 🔗 **Gêmeo Digital Industrial**  
-  Simulação de linhas de produção com SimPy, SciPy e scikit-learn.
+- **Robô de Trading Automatizado**  
+  Estratégias financeiras com controle de risco e métricas de performance.
 
-- 🔗 **Dashboard Financeiro**  
-  KPIs empresariais com Streamlit e Plotly.
+- **Dashboards Estratégicos**  
+  KPIs empresariais com Streamlit, Plotly e Power BI.
 
 ---
 
