@@ -22,7 +22,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+###  Sobre Mim
 
 Sou Engenheiro de Software focado em transformar desafios de negócio em arquiteturas técnicas robustas. Minha atuação vai além do código; entrego soluções completas com foco em:
 
@@ -33,17 +33,17 @@ Sou Engenheiro de Software focado em transformar desafios de negócio em arquite
 
 ---
 
-### 🏗️ Projetos Estratégicos
+###  Projetos Estratégicos
 
 <details>
-<summary><b>🏦 Fintech & Web3</b></summary>
+<summary><b> Fintech & Web3</b></summary>
 
 * **WB3.Fintech:** Plataforma financeira cloud-native (AWS) com ledger imutável (double-entry), integração blockchain EVM e arquitetura de microsserviços.
 * **Bot de Trading (Spot):** Engine profissional com gerenciamento de risco, execução idempotente e dashboard em FastAPI.
 </details>
 
 <details>
-<summary><b>🤖 IA & Automação SaaS</b></summary>
+<summary><b> IA & Automação SaaS</b></summary>
 
 * **SaaS de Entrevistas via IA:** Orquestrador de sessões via WhatsApp com análise de sentimento e ranking automático via LLM.
 * **Otimização de Anúncios (ML):** SaaS para análise competitiva e sugestão de títulos/preços via IA para o Mercado Livre.
@@ -51,7 +51,7 @@ Sou Engenheiro de Software focado em transformar desafios de negócio em arquite
 </details>
 
 <details>
-<summary><b>🌐 IoT & Sistemas de Gestão</b></summary>
+<summary><b> IoT & Sistemas de Gestão</b></summary>
 
 * **GasNow:** Monitoramento inteligente de gás usando ESP32/LoRa e predição de consumo.
 * **Etiquetas Eletrônicas (ESL):** Atualização massiva de preços via MQTT/HTTPS.
@@ -84,9 +84,9 @@ Sou Engenheiro de Software focado em transformar desafios de negócio em arquite
 
 ### 🎯 Objetivo Atual
 
-Busco oportunidades como **Backend**, **Cloud** ou **Software Engineer** em projetos que demandem alta escalabilidade, especialmente nos setores de **Fintech, IA e Web3**.
+Busco oportunidades como **Backend**, **Cloud** ou **Software Engineer** em projetos que demandem alta escalabilidade, especialmente nos setores de **Fintech, IA, Industria 4.0 (Automação) e Web3**.
 
-> 🎓 **Formação:** Engenharia de Software (Cursando) | Comércio Exterior | Técnico em Informática.
+> 🎓 **Formação:** Engenheiro de Software (Cursando) | Comércio Exterior | Técnico em Informática.
 
 <p align="center">
   <em>"Transformando ideias complexas em arquiteturas executáveis."</em>
