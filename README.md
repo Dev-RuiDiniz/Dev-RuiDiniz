@@ -1,7 +1,7 @@
 # Rui Francisco de Paula Inácio Diniz
 
 <p align="center">
-  <strong>Software Engineer | Backend & Cloud Architect | Fintech | Web3 | AI Systems</strong>
+  <strong>Software Engineer | Backend & Cloud Architect | Fintech | Industria 4.0 | Web3 | AI Systems</strong>
 </p>
 
 <p align="center">
