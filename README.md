@@ -1,123 +1,83 @@
 # Rui Francisco de Paula Inácio Diniz
 
-<p align="center">
-  <strong>Software Engineer | Backend & Cloud Architect | Fintech | Indústria 4.0 | Web3 | AI Systems</strong>
-</p>
+**Engenheiro de Software | Backend Developer | Fullstack Developer | Python | .NET | TypeScript | APIs | Dados | IA**
 
-<p align="center">
-  <em>Desenvolvo sistemas de alta criticidade e escalabilidade, transformando objetivos de negócio em arquiteturas de software robustas e prontas para produção.</em>
-</p>
+Desenvolvo sistemas web, APIs REST, automações, dashboards, pipelines de dados e produtos SaaS com foco em clareza técnica, documentação, segurança e entrega prática.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ruif-diniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rui.pdiniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Dev-RuiDiniz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+Tenho trabalhado em projetos com Python, FastAPI, Flask, C#/.NET, ASP.NET Core, TypeScript, Next.js, NestJS, PostgreSQL, Redis, Docker, CI/CD, cloud, integrações com APIs externas, dados e IA aplicada.
 
----
+## Stacks principais
 
-### 🚀 Visão Executiva & Perfil Técnico
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-Sou um Engenheiro de Software com foco em **Arquitetura de Sistemas** e **Soluções Cloud-Native**. Minha entrega vai muito além do código: eu desenho abordagens eficientes e seguras que movem o ponteiro do seu negócio. Minhas diretrizes fundamentais incluem:
+## O que eu construo
 
-* **Arquitetura de Alta Performance:** Construção de sistemas modulares, escaláveis e orientados a eventos.
-* **Domain-Driven Design (DDD):** Modelagem rigorosa de domínios complexos, garantindo integridade de regras de negócio em ambientes multi-tenant.
-* **Segurança & Cloud (DevSecOps):** Infraestruturas otimizadas e resilientes, desenhadas com segurança *by-design* em provedores cloud de ponta.
-* **Qualidade Excepcional:** Implementação de telemetria completa (observabilidade, métricas, logs estruturados) aliada a documentação técnica impecável.
+- APIs REST com Python, FastAPI, Flask, C#/.NET, ASP.NET Core e NestJS.
+- Sistemas SaaS multi-tenant com autenticação, RBAC, audit logs e isolamento de dados.
+- Aplicações fullstack com Next.js, React, TypeScript, dashboards administrativos e integrações.
+- Pipelines ETL com Python, Pandas, AWS, GCP, BigQuery, PostgreSQL e automações de dados.
+- Workers, filas, WebSockets, integrações com APIs externas e soluções com IA aplicada.
+- Documentação técnica, contratos OpenAPI/Swagger, testes automatizados e pipelines CI/CD.
 
----
+## Projetos em destaque
 
-### 💎 Cases de Sucesso & Projetos Estratégicos
+### [Equipe Jiu](https://github.com/Dev-RuiDiniz/equipe_jiu)
 
-<details open>
-<summary><b>🏦 Fintech & Web3</b></summary>
+Plataforma fullstack para um time de jiu-jitsu com site público, área administrativa, API NestJS, Prisma, PostgreSQL, autenticação JWT/cookie httpOnly, dashboard, gestão de alunos, aulas, presenças, contatos e graduações.
 
-* **WB3.Fintech:** Plataforma financeira cloud-native (AWS) construída sobre um ledger de dupla entrada (double-entry). Possui integração com redes blockchain EVM e arquitetura robusta baseada em microsserviços.
-* **Bot de Trading Institucional (Spot):** Engine proprietário de alta performance. Desenvolvido com FastAPI para gerenciamento de risco em tempo real e orquestração de execução idempotente.
-</details>
+**Stack:** Next.js, TypeScript, NestJS, Prisma, PostgreSQL, JWT, Passport, Docker e CI.
 
-<details open>
-<summary><b>🤖 Inteligência Artificial & Soluções SaaS</b></summary>
+### [Crypto](https://github.com/Dev-RuiDiniz/Crypto)
 
-* **SaaS de Recrutamento Potencializado por IA:** Orquestrador de sessões interativas via WhatsApp. Utiliza LLMs para análise de sentimento e ranking preditivo de candidatos.
-* **Marketplace Optimization Engine (Machine Learning):** Sistema SaaS focado em inteligência competitiva que recomenda precificação dinâmica e otimização de copy para anúncios no Mercado Livre.
-* **Workflow Automation Engine:** Automação de engajamento B2B via Power Automate com forte governança, persistência de estado e logs de auditoria completos.
-</details>
+Plataforma de trading cripto com worker assíncrono, API Flask, dashboard web, modos PAPER/LIVE, integração com exchanges, estratégias de spread/arbitragem, risk manager, kill switch e circuit breaker.
 
-<details open>
-<summary><b>⚙️ Indústria 4.0, IoT & Sistemas de Gestão Completa</b></summary>
+**Stack:** Python, Flask, JavaScript, SQLite, WebSocket, testes e integração com APIs externas.
 
-* **GasNow IoT:** Arquitetura de telemetria preditiva com ESP32/LoRa para monitoramento unificado e inteligente de níveis de gás.
-* **Sync de Etiquetas Eletrônicas (ESL):** Plataforma massiva para precificação em tempo real, orquestrando fluxos sobre os protocolos MQTT e HTTPS.
-* **Plataforma de Impacto Social:** Ecosistema nativo React e FastAPI. Modelado meticulosamente para fornecer rastreabilidade total de dados com conformidade LGPD estrita.
-* **SaaS Multi-tenant para Fitness:** Solução premium para Personal Trainers que abrange desde gestão financeira à retenção de alunos.
-</details>
+### [SaaS Chatbot](https://github.com/Dev-RuiDiniz/SaaS-Chatbot)
 
----
+Plataforma omnichannel/chatbot com arquitetura orientada a serviços, multi-tenancy, autenticação, módulos de mensagens, canais, billing, analytics e base para evolução em microserviços.
 
-### 🧠 Domínio Tecnológico
+**Stack:** .NET 8, C#, ASP.NET Core, PostgreSQL, Redis, RabbitMQ, Docker, Clean Architecture e DDD.
 
-| Padrões de Domínio | Principais Tecnologias e Ferramentas |
-| :--- | :--- |
-| **Backend Engineering** | Python (FastAPI, Django), C# (.NET 8), Node.js (NestJS) |
-| **Cloud Computing & DevOps** | AWS (ECS, RDS, SQS, EventBridge), Docker, Pipelines CI/CD via GitHub Actions |
-| **Arquitetura de Dados** | PostgreSQL, Redis, MongoDB, DynamoDB, SQL Server |
-| **Pioneirismo em Web3 & GenAI** | Solidity, Ethers.js, LangChain, OpenAI API, Pandas, OpenCV |
-| **Paradigmas de Arquitetura** | Clean Architecture, SOLID Principles, Microsserviços, Event-Driven Architecture (EDA) |
+### [GCP Serverless ETL Pipeline](https://github.com/Dev-RuiDiniz/gcp-serverless-etl-pipeline)
 
----
+Pipeline ETL serverless para extração de API pública, transformação com Pandas, carga no BigQuery, logging estruturado, Secret Manager e integração com dashboards no Looker Studio.
 
-### 📊 Desempenho & Impacto
+**Stack:** Python, Google Cloud Functions, BigQuery, Pandas, Secret Manager e Pytest.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RuiDiniz&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-RuiDiniz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-</div>
+### [ETL Pipeline AWS](https://github.com/Dev-RuiDiniz/etl-pipeline-aws)
 
----
+Pipeline ETL em AWS para extração, transformação e carga de dados em PostgreSQL/RDS, com armazenamento de arquivos e logs no S3 e orquestração por EventBridge/Lambda.
 
-### 🎯 Posicionamento Atual
+**Stack:** Python, AWS Lambda, S3, RDS PostgreSQL, EventBridge, Pandas, SQLAlchemy, Docker e Pytest.
 
-Busco conectar-me com projetos de alto impacto que exijam desafios em escala, atuando como **Backend Engineer, Cloud Architect** ou **Software Engineer** em verticais de base tecnológica sólida como **Fintech, Inteligência Artificial, Indústria 4.0 e Web3**.
+### Projetos privados e consultorias
 
-> 🎓 **Academic Background:** Engenharia de Software (Cursando) | Comércio Exterior | Técnico em Informática.
+Também atuo em projetos privados envolvendo SaaS multi-tenant, otimização de anúncios, migração incremental .NET para Python, Web3/fintech, dashboards administrativos, automações de negócio, integrações com APIs externas e IA aplicada.
 
-<p align="center">
-  <em>"Materializando visões estratégicas complexas em arquiteturas de software executáveis e rentáveis."</em>
-</p>
+## Áreas de interesse
 
----
+- Backend Engineering
+- Fullstack Web Development
+- APIs e integrações
+- Cloud e DevOps
+- Dados, ETL e dashboards
+- IA aplicada e automações
+- Arquitetura de software e SaaS multi-tenant
 
-<details>
-<summary><b> 📁 Portfólio Expandido de Repositórios</b></summary>
+## Contato
 
-### 🚀 Destaques da Biblioteca de Código-Fonte
-
-#### Python
-- **[saas-barberflow](https://github.com/Dev-RuiDiniz/saas-barberflow)** - Sistema SaaS desenvolvido em Django estruturado para ser escalável, organizado e multi-tenant.
-- **[restaurante-api](https://github.com/Dev-RuiDiniz/restaurante-api)** - Backend de Alta Performance construído com FastAPI.
-- **[financial_automation](https://github.com/Dev-RuiDiniz/financial_automation)** - Automação financeira profunda com extração de métricas essenciais.
-- **[gcp-serverless-etl-pipeline](https://github.com/Dev-RuiDiniz/gcp-serverless-etl-pipeline)** - Pipeline ETL automatizado corporativo com Google Cloud. Arquitetura serverless e escalável.
-- **[etl-pipeline-aws](https://github.com/Dev-RuiDiniz/etl-pipeline-aws)** - Automate Data Pipelines with AWS RDS and S3.
-- **[Gemeo-Digital](https://github.com/Dev-RuiDiniz/Gemeo-Digital)** - Gêmeo Digital de linha de produção industrial contendo simulação, otimização e IA preditiva.
-- *E [dezenas de outros serviços backend e automações completas...](https://github.com/Dev-RuiDiniz?tab=repositories&q=&type=&language=python)*
-
-#### TypeScript / JavaScript
-- **[raiz-interiors](https://github.com/Dev-RuiDiniz/raiz-interiors)** - Premium web application framework.
-- **[site_loja_do_guerreiro](https://github.com/Dev-RuiDiniz/site_loja_do_guerreiro)** - E-commerce modelado com arquitetura visual limpa com fechamento multicanal via WhatsApp e Next.js.
-- **[blog_elcio](https://github.com/Dev-RuiDiniz/blog_elcio)** - Mini-CRM e catálogo robusto de consultoria executiva.
-- *Explore a [lista estendida de interfaces modernas...](https://github.com/Dev-RuiDiniz?tab=repositories&q=&type=&language=typescript)*
-
-#### C# (.NET)
-- **[bot_automacao](https://github.com/Dev-RuiDiniz/bot_automacao)** - Solução engenhada para processos background transacionais em .NET.
-- **[Trilhas de Fundamentos em C#](https://github.com/Dev-RuiDiniz/trilha-net-fundamentos-desafio)** - Trabalhos de engenharia fundamentada de estruturas de dados do C#.
-
-> *(Para a versão completa contendo os mais de 80 repositórios catalogados detalhadamente, navegue pelas [Abas de Repositório do meu GitHub](https://github.com/Dev-RuiDiniz?tab=repositories))*
-
-</details>
+- LinkedIn: https://www.linkedin.com/in/ruif-diniz
+- GitHub: https://github.com/Dev-RuiDiniz
+- Email: rui.pdiniz@gmail.com
